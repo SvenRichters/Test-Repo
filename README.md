@@ -3,5 +3,5 @@ Test Repo
 ## This is a Heading
 ### This is a smaller heading
 
-*first item
-*second item
+* first item
+* second item
